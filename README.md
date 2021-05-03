@@ -1,4 +1,4 @@
-# Gramoday_Assignment
+# Crop Price Prediction
 
 Dataset available on:
 url='https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=24&Tx_State=UP&Tx_District=1&Tx_Market=0&DateFrom=01-January-2020&DateTo=31-December-2020&Fr_Date=01-January-2020&To_Date=31-December-2020&Tx_Trend=0&Tx_CommodityHead=Potato&Tx_StateHead=Uttar+Pradesh&Tx_DistrictHead=Agra&Tx_MarketHead=--Select--'
